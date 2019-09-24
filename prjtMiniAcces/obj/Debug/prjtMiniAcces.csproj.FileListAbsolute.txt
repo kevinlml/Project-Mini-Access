@@ -1,0 +1,20 @@
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\bin\Debug\prjtMiniAcces.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\Interop.DAO.dll
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.csproj.ResolveComReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.FrmCreateData.resources
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.FrmMain.resources
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.FrmRelations.resources
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.FrmViewData.resources
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\bin\Debug\prjtMiniAcces.exe
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\bin\Debug\prjtMiniAcces.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\bin\Debug\Interop.DAO.dll
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.exe
+c:\users\kevin\documents\visual studio 2015\Projects\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.pdb
+C:\Users\Kevin\Documents\College LaSalle\4 semester\Desing, interace C\prjtMiniAcces\prjtMiniAcces\bin\Debug\prjtMiniAcces.exe.config
+C:\Users\Kevin\Documents\College LaSalle\4 semester\Desing, interace C\prjtMiniAcces\prjtMiniAcces\obj\Debug\Interop.DAO.dll
+C:\Users\Kevin\Documents\College LaSalle\4 semester\Desing, interace C\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.csproj.ResolveComReference.cache
+C:\Users\Kevin\Documents\College LaSalle\4 semester\Desing, interace C\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.exe
+C:\Users\Kevin\Documents\College LaSalle\4 semester\Desing, interace C\prjtMiniAcces\prjtMiniAcces\obj\Debug\prjtMiniAcces.pdb
